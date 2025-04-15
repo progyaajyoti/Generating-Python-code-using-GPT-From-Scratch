@@ -1,44 +1,35 @@
-🧠 GPT-2 Powered Python Code Generator
-An AI-driven application that generates fully functional Python code from natural language prompts using a fully fine-tuned GPT-2 model. This tool is designed to make coding more accessible for non-programmers while boosting productivity for developers through fast, intelligent code generation.
+**GPT-2 Powered Python Code Generator**
+This project is an AI-driven application that generates fully functional Python code from natural language prompts using a fully fine-tuned GPT-2 model. It is designed to make coding more accessible for non-programmers and accelerate development workflows for experienced programmers.
 
-🚀 Overview
-This project demonstrates the practical application of large language models (LLMs) in automating Python code creation. By fine-tuning GPT-2 on carefully selected datasets, the model can generate clean, efficient, and scalable code based on simple user input. From data analysis scripts to algorithmic logic and automation workflows, the system supports a wide variety of use cases.
+**Overview**
+The system leverages the capabilities of large language models (LLMs) to convert plain English instructions into executable Python code. By performing fully parameterized fine-tuning on GPT-2, the model has been adapted to produce accurate, readable, and scalable code for a wide range of use cases.
 
-🎯 Features
-✨ Natural Language to Code
-Describe a task or functionality in plain English and receive complete Python code as output.
+*Whether it's data analysis, automation, or algorithm design, this tool enables users to describe their requirements and receive complete Python solutions in response.*
 
-🛠️ Fully Parameterized Fine-Tuning
-GPT-2 has been fine-tuned on domain-specific coding data for high accuracy and contextual understanding.
+**Features**
+Natural Language to Code
+Input a prompt or task description, and the system generates Python code automatically.
 
-🧾 Code Explanation
-Generated code includes inline comments and detailed explanations for better learning and usability.
+Fully Parameterized Fine-Tuning
+GPT-2 is fine-tuned on domain-specific code datasets for improved accuracy and contextual understanding.
 
-⚙️ Customization Support
-Modify or extend the generated code to better suit your use case.
+Code Explanation
+Output includes inline comments and detailed explanations to aid learning and comprehension.
 
-🧠 Debugging & Optimization Hints
-Built-in suggestions for handling potential errors and improving performance.
+Customization Support
+Users can modify and fine-tune the generated code to suit their specific needs.
 
-💡 Use Cases
-AI-assisted learning and programming education
+Debugging and Optimization Suggestions
+The system provides helpful recommendations for improving code performance and handling errors.
+
+Use Cases
+AI-assisted learning and code education
 
 Rapid prototyping of Python scripts
 
-Automating repetitive coding tasks
+Automation of repetitive coding tasks
 
-Supporting non-technical users in software creation
+Enabling non-technical users to generate functional code
 
-🧰 Tech Stack
+**Tech Stack**
 GPT-2 | Transformers | Python | Fine-Tuning | NLP | LLM | AI Code Generation
-
-📁 Project Structure (Optional)
-bash
-Copy
-Edit
-├── model/             # Fine-tuned GPT-2 model files
-├── data/              # Training datasets used for fine-tuning
-├── app/               # Application logic for handling prompts and code generation
-├── utils/             # Helper functions and utilities
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
