@@ -32,3 +32,13 @@ Supporting non-technical users in software creation
 🧰 Tech Stack
 GPT-2 | Transformers | Python | Fine-Tuning | NLP | LLM | AI Code Generation
 
+📁 Project Structure (Optional)
+bash
+Copy
+Edit
+├── model/             # Fine-tuned GPT-2 model files
+├── data/              # Training datasets used for fine-tuning
+├── app/               # Application logic for handling prompts and code generation
+├── utils/             # Helper functions and utilities
+├── requirements.txt   # Python dependencies
+└── README.md          # Project documentation
